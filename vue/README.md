@@ -1,4 +1,4 @@
-# Example React Docker
+# Example Vue.js Docker
 
 This is a hello world app that is written in Javascript using [Vue.js](https://vuejs.org/) framework, packaged using [Docker](https://www.docker.com/).
 
